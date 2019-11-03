@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Zachary Brehm
+name: David Burton
 
 # Username (this should match the folder name)
 authors:
-- brehm
+- burton
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,7 +22,7 @@ bio: My research interests include statistical genomics and bioinformatics.
 
 interests:
 - Statistical Genomics
-- Bioinformatics
+- Network Modeling
 
 education:
   courses:

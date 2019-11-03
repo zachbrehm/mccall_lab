@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor of Biostatistics
+role: Associate Professor of Biostatistics and Biomedical Genetics
 
 # Organizations/Affiliations
 organizations:

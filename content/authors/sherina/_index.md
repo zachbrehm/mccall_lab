@@ -1,21 +1,21 @@
 ---
 # Display name
-name: Zachary Brehm
+name: Valeriia Sherina
 
 # Username (this should match the folder name)
 authors:
-- brehm
+- sherina
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Principal Statistician at GSK
 
 # Organizations/Affiliations
 organizations:
-- name: University of Rochester
-  url: "https://www.rochester.edu/"
+- name: GlaxoSmithKline
+  url: "https://www.gsk.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include statistical genomics and bioinformatics.
@@ -62,7 +62,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Graduate Students
+- Alumni
 ---
 
 

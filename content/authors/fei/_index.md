@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Zachary Brehm
+name: Yuewei Fei
 
 # Username (this should match the folder name)
 authors:
-- brehm
+- fei
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
@@ -21,8 +21,8 @@ organizations:
 bio: My research interests include statistical genomics and bioinformatics.
 
 interests:
-- Statistical Genomics
 - Bioinformatics
+- MicroRNAs
 
 education:
   courses:
@@ -62,7 +62,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Graduate Students
+- Undergraduate Students
 ---
 
 

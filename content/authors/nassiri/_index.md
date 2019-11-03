@@ -1,28 +1,28 @@
 ---
 # Display name
-name: Zachary Brehm
+name: Isar Nassiri
 
 # Username (this should match the folder name)
 authors:
-- brehm
+- nassiri
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Postdoctoral Researcher at Oxford University
 
 # Organizations/Affiliations
-organizations:
-- name: University of Rochester
-  url: "https://www.rochester.edu/"
+#organizations:
+#- name: University of Rochester
+#  url: "https://www.rochester.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include statistical genomics and bioinformatics.
+bio: My research interests include bioinformatics and systems biology.
 
 interests:
-- Statistical Genomics
 - Bioinformatics
+- Systems Biology
 
 education:
   courses:
@@ -62,7 +62,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Graduate Students
+- Alumni
 ---
 
 
