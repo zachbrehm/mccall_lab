@@ -1,16 +1,16 @@
 ---
 # Display name
-name: David Burton
+name: Zachary Brehm
 
 # Username (this should match the folder name)
 authors:
-- burton
+- brehm
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Statistics PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ bio: My research interests include statistical genomics and bioinformatics.
 
 interests:
 - Statistical Genomics
-- Network Modeling
+- Bioinformatics
 
 education:
   courses:

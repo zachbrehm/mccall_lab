@@ -1,28 +1,28 @@
 ---
 # Display name
-name: Isar Nassiri
+name: Lauren Kemperman
 
 # Username (this should match the folder name)
 authors:
-- nassiri
+- kemperman
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher at Oxford University
+role: Machine Learning Software Engineer at Iterative Scopes
 
 # Organizations/Affiliations
-#organizations:
-#- name: University of Rochester
-#  url: "https://www.rochester.edu/"
+organizations:
+- name: Iterative Scopes
+  url: "https://www.iterativescopes.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include bioinformatics and systems biology.
+bio: My research interests include statistical genomics and bioinformatics.
 
 interests:
 - Bioinformatics
-- Systems Biology
+- MicroRNAs
 
 education:
   courses:
@@ -62,7 +62,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni
+- Undergraduate Alumni
 ---
 
 

@@ -1,28 +1,28 @@
 ---
 # Display name
-name: Zachary Brehm
+name: Winslow Powers
 
 # Username (this should match the folder name)
 authors:
-- brehm
+- powers
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Bioinformatics Software Engineer at One Brave Idea
 
 # Organizations/Affiliations
 organizations:
-- name: University of Rochester
-  url: "https://www.rochester.edu/"
+- name: One Brave Idea
+  url: "https://www.onebraveidea.org/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include statistical genomics and bioinformatics.
+bio: 
 
 interests:
-- Statistical Genomics
 - Bioinformatics
+- qPCR
 
 education:
   courses:
@@ -62,7 +62,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Graduate Students
+- Undergraduate Alumni
 ---
 
 

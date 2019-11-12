@@ -1,28 +1,28 @@
 ---
 # Display name
-name: Valeriia Sherina
+name: Qingyan Lilly Xie
 
 # Username (this should match the folder name)
 authors:
-- sherina
+- xie
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Principal Statistician at GSK
+role: Data Scientist at Paychex
 
 # Organizations/Affiliations
 organizations:
-- name: GlaxoSmithKline
-  url: "https://www.gsk.com/"
+- name: Paychex
+  url: "https://www.paychex.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include statistical genomics and bioinformatics.
+bio: 
 
 interests:
-- Statistical Genomics
-- Bioinformatics
+- Medical Genomics
+- Systems Biology
 
 education:
   courses:
@@ -62,7 +62,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni
+- Postdoctoral Alumni
 ---
 
 

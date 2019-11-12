@@ -1,28 +1,28 @@
 ---
 # Display name
-name: Erik Vonkaenel
+name: Kailey Ferger
 
 # Username (this should match the folder name)
 authors:
-- vonkaenel
+- ferger
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Student
+role: PhD Student in Computational Biology at UC Berkeley
 
 # Organizations/Affiliations
 organizations:
-- name: University of Rochester
-  url: "https://www.rochester.edu/"
+- name: UC Berkeley
+  url: "https://ccb.berkeley.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include statistical genomics and bioinformatics.
 
 interests:
-- Statistical Genomics
-- Image Analysis
+- Bioinformatics
+- MicroRNAs
 
 education:
   courses:
@@ -62,7 +62,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Graduate Students
+- Undergraduate Alumni
 ---
 
 

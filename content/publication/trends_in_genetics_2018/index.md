@@ -25,7 +25,7 @@ summary:
 
 tags:
 - microRNA
-featured: true
+featured: false
 
 links:
 - name: "paper"
