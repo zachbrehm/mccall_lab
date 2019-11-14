@@ -2,6 +2,22 @@
 title: "Toward the human cellular microRNAome"
 authors:
 - admin
+- Min-Sik Kim
+- Mohammed Adil
+- Arun H. Patil
+- Yin Lu
+- Christopher J. Mitchell
+- Pamela Leal-Rojas
+- Jinchong Xu
+- Manoj Kumar
+- Valina L. Dawson
+- Ted M. Dawson
+- Alexander S. Baras
+- Avi Z. Rosenberg
+- Dan E. Arking
+- Kathleen H. Burns
+- Akhilesh Pandey
+- Marc K. Halushka
 date: "2018-07-16"
 doi: ""
 

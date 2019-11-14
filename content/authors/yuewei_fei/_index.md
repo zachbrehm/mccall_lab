@@ -4,7 +4,7 @@ name: Yuewei Fei
 
 # Username (this should match the folder name)
 authors:
-- fei
+- yuewei_fei
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,7 +22,7 @@ bio: My research interests include statistical genomics and bioinformatics.
 
 interests:
 - Bioinformatics
-- MicroRNAs
+- MicroRNA
 
 education:
   courses:

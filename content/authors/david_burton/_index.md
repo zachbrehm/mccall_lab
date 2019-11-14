@@ -4,7 +4,7 @@ name: David Burton
 
 # Username (this should match the folder name)
 authors:
-- burton
+- david_burton
 
 # Is this the primary user of the site?
 superuser: false

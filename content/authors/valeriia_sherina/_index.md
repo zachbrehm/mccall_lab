@@ -4,7 +4,7 @@ name: Valeriia Sherina
 
 # Username (this should match the folder name)
 authors:
-- sherina
+- valeriia_sherina
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,7 +22,7 @@ bio: My research interests include statistical genomics and bioinformatics.
 
 interests:
 - Statistical Genomics
-- Bioinformatics
+- Missing data
 
 education:
   courses:

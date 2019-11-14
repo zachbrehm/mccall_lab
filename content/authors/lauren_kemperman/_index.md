@@ -4,7 +4,7 @@ name: Lauren Kemperman
 
 # Username (this should match the folder name)
 authors:
-- kemperman
+- lauren_kemperman
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,11 +18,11 @@ organizations:
   url: "https://www.iterativescopes.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include statistical genomics and bioinformatics.
+bio: 
 
 interests:
-- Bioinformatics
-- MicroRNAs
+- Interactive graphics
+- Data science
 
 education:
   courses:

@@ -4,13 +4,13 @@ name: Yun Zhang
 
 # Username (this should match the folder name)
 authors:
-- zhang
+- yun_zhang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Staff Scientist-Biostatician
+role: Staff Scientist at JCVI
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,8 @@ bio:
 
 interests:
 - Statistical Genomics
-- Bioinformatics
+- Co-expression
+- Deconvolution
 
 education:
   courses:

@@ -4,7 +4,7 @@ name: Erik Vonkaenel
 
 # Username (this should match the folder name)
 authors:
-- vonkaenel
+- erik_vonkaenel
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,8 +21,8 @@ organizations:
 bio: My research interests include statistical genomics and bioinformatics.
 
 interests:
-- Statistical Genomics
-- Image Analysis
+- Microglia
+- Cell Imaging
 
 education:
   courses:

@@ -4,7 +4,7 @@ name: Qingyan Lilly Xie
 
 # Username (this should match the folder name)
 authors:
-- xie
+- lilly_xie
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,7 +22,7 @@ bio:
 
 interests:
 - Medical Genomics
-- Systems Biology
+- Precision Medicine
 
 education:
   courses:

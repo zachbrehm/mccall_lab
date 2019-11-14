@@ -4,7 +4,7 @@ name: Zachary Brehm
 
 # Username (this should match the folder name)
 authors:
-- brehm
+- zachary_brehm
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,7 +22,7 @@ bio: My research interests include statistical genomics and bioinformatics.
 
 interests:
 - Statistical Genomics
-- Bioinformatics
+- Cell Mixtures
 
 education:
   courses:

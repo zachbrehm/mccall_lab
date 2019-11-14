@@ -1,7 +1,7 @@
 ---
 title: "Systematic exploration of cell morphological phenotypes associated with a transcriptomic query"
 authors:
-- nassiri
+- isar_nassiri
 - admin
 date: "2017-09-06"
 doi: ""

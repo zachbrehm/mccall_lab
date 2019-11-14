@@ -4,7 +4,7 @@ name: Winslow Powers
 
 # Username (this should match the folder name)
 authors:
-- powers
+- winslow_powers
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,7 +22,7 @@ bio:
 
 interests:
 - Bioinformatics
-- qPCR
+- Cell Mixtures
 
 education:
   courses:

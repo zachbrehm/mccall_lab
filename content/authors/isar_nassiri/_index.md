@@ -4,7 +4,7 @@ name: Isar Nassiri
 
 # Username (this should match the folder name)
 authors:
-- nassiri
+- isar_nassiri
 
 # Is this the primary user of the site?
 superuser: false

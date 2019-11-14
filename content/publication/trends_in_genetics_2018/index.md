@@ -1,6 +1,9 @@
 ---
 title: "Big Strides in Cellular MicroRNA Expression"
 authors:
+- Marc K. Halushka
+- Bastian Fromm
+- Kevin J. Peterson
 - admin
 date: "2018-01-17"
 doi: ""

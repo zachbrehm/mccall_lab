@@ -4,7 +4,7 @@ name: Benjamin Hsu
 
 # Username (this should match the folder name)
 authors:
-- hsu
+- benjamin_hsu
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include statistical genomics and bioinformatics.
 
 interests:
-- Bioinformatics
+- Autoregressive models
 - qPCR
 
 education:

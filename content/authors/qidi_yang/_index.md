@@ -4,13 +4,13 @@ name: Qidi Yang
 
 # Username (this should match the folder name)
 authors:
-- yang
+- qidi_yang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Computational Biology Student at Carnegie Mellon University
+role: MS Student in Computational Biology at Carnegie Mellon University
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ bio:
 
 interests:
 - Bioinformatics
-- MicroRNAs
+- MicroRNA
 
 education:
   courses:
