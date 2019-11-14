@@ -26,9 +26,12 @@ interests:
 
 education:
   courses:
-  - course: 
-    institution: 
-    year: 
+  - course: MA in Statistics
+    institution: University of Rochester
+    year: 2018
+  - course: BS in Mathematics and Statistics
+    institution: East Tennessee State University
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

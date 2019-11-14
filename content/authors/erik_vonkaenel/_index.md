@@ -26,9 +26,9 @@ interests:
 
 education:
   courses:
-  - course: 
-    institution: 
-    year: 
+  - course: BS in Mathematics
+    institution: Slippery Rock University of Pennsylvania
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

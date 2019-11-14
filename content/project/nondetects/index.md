@@ -2,7 +2,7 @@
 title: Non-detects in qPCR data
 summary: Methods to model and impute non-detects in the results of qPCR experiments.
 tags:
-- qpcr
+- qPCR
 - nondetects
 date: "2016-04-27T00:00:00Z"
 

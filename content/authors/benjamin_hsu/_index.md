@@ -18,17 +18,17 @@ organizations:
   url: "https://sps.columbia.edu/academics/masters/actuarial-science"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include statistical genomics and bioinformatics.
+bio: 
 
 interests:
 - Autoregressive models
-- qPCR
+- Amplification dynamics in qPCR
 
 education:
   courses:
-  - course: 
-    institution: 
-    year: 
+  - course: BA in Statistics
+    institution: University of Rochester
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

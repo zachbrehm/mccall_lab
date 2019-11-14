@@ -26,10 +26,13 @@ interests:
 
 education:
   courses:
-  - course: 
-    institution: 
-    year: 
-
+  - course: PhD in Computer Science
+    institution: University of Cincinati
+    year: 2013
+  - course: ME in Computer Engineering
+    institution: Beijing University of Post and Telecommunications
+    year: 2002
+    
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the

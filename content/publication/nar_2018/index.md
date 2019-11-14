@@ -29,7 +29,7 @@ tags:
 featured: true
 
 links:
-- name: "paper"
+- name: "Paper"
   url: "https://doi.org/10.1093/nar/gky626"
 url_pdf: ''
 url_code: 'https://github.com/isarnassiri/CMEA'

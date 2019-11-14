@@ -44,7 +44,7 @@ tags:
 featured: true
 
 links:
-- name: "paper"
+- name: "Paper"
   url: "https://genome.cshlp.org/content/27/10/1769"
 url_pdf: ''
 url_code: ''

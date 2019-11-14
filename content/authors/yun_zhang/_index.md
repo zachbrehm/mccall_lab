@@ -27,10 +27,16 @@ interests:
 
 education:
   courses:
-  - course: 
-    institution: 
-    year: 
-
+  - course: PhD in Statistics
+    institution: University of Rochester
+    year: 2018
+  - course: MS in Statistics
+    institution: University of Pennsylvania
+    year: 2013
+  - course: MMath in Mathematics and Statistics
+    institution: University of Oxford
+    year: 2011
+    
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -45,12 +51,12 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=aaDwtw0AAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/mccallm
-#- icon: orcid
-#  icon_pack: ai
-#  link: https://orcid.org/0000-0002-2473-0943
+- icon: github
+  icon_pack: fab
+  link: https://github.com/yunzhang813
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2707-5881
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 #- icon: cv
@@ -66,5 +72,5 @@ user_groups:
 - Graduate Alumni
 ---
 
-My research interest includes statistical modeling and methodology development for big data produced by advanced biotechnologies, with a focus on analyzing time-course microarray data, DNA methylation data, and microRNA sequencing data. I am also a professional developer of R and Bioconductor packages. My recent focus is on applying statistical approaches to single cell RNA sequencing (scRNAseq) data.
+Yun Zhang's research interests include statistical modeling and methodology development for big data produced by advanced biotechnologies, with a focus on analyzing time-course microarray data, DNA methylation data, and microRNA sequencing data. She is also a professional developer of R and Bioconductor packages. Her recent focus is on applying statistical approaches to single cell RNA sequencing data.
 

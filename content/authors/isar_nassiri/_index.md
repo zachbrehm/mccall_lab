@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher at Oxford University
+role: Postdoctoral Researcher at University of Oxford
 
 # Organizations/Affiliations
-#organizations:
-#- name: University of Rochester
-#  url: "https://www.rochester.edu/"
+organizations:
+- name: University of Oxford
+  url: "https://www.imm.ox.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -26,9 +26,12 @@ interests:
 
 education:
   courses:
-  - course: 
-    institution: 
-    year: 
+  - course: PhD in Bioinformatics
+    institution: University of Tehran
+    year: 2013
+  - course: MS in Molecular Genetics
+    institution: University of Isfahan
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

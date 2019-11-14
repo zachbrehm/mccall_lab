@@ -18,7 +18,7 @@ organizations:
   url: "https://www.rochester.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include statistical genomics and bioinformatics.
+bio: 
 
 interests:
 - Statistical Genomics
@@ -26,9 +26,15 @@ interests:
 
 education:
   courses:
-  - course: 
-    institution: 
-    year: 
+  - course: MA in Statistics
+    institution: University of Rochester
+    year: 2019
+  - course: MA in Mathematics
+    institution: SUNY Potsdam
+    year: 2017
+  - course: MM in Music Performance
+    institution: SUNY Potsdam
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
