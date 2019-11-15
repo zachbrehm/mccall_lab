@@ -32,6 +32,9 @@ education:
   - course: BS in Mathematics and Statistics
     institution: East Tennessee State University
     year: 2016
+  - course: BA in Economics
+    institution: East Tennessee State University
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
