@@ -1,43 +1,35 @@
 ---
 # Display name
 name: Yuewei Fei
-
 # Username (this should match the folder name)
 authors:
 - yuewei_fei
-
 # Is this the primary user of the site?
 superuser: false
-
 # Role/position
 role: Undergraduate Student
-
 # Organizations/Affiliations
 organizations:
 - name: University of Rochester
   url: "https://www.rochester.edu/"
-
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include statistical genomics and bioinformatics.
-
 interests:
 - Bioinformatics
 - MicroRNA
-
 education:
   courses:
-  - course: 
-    institution: 
-    year: 
-
+  - course:
+    institution:
+    year:
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: mailto:matthew_mccall@urmc.rochester.edu
+- icon: envelope
+  icon_pack: fas
+  link: mailto:yfei2@u.rochester.edu
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/matthewnmccall
@@ -55,7 +47,6 @@ social:
 #- icon: cv
 #  icon_pack: ai
 #  link: files/mccall_cv.pdf
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
   
@@ -64,6 +55,5 @@ email: ""
 user_groups:
 - Undergraduate Students
 ---
-
-
+Yuewei Fei is a junior majoring in Computational Biology and Brain and Cognitive Science at the University of Rochester. She is currently working on analyzig microRNA expression data.
 
