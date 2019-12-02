@@ -29,12 +29,15 @@ education:
   - course: MA in Statistics
     institution: University of Rochester
     year: 2019
-  - course: MA in Mathematics
+  - course: BA/MA in Mathematics
     institution: SUNY Potsdam
     year: 2017
   - course: MM in Music Performance
     institution: SUNY Potsdam
-    year: 2017
+    year: 2015
+  - course: BM in Music Performance
+    institution: SUNY Potsdam
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -50,12 +53,12 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=aaDwtw0AAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/mccallm
-#- icon: orcid
-#  icon_pack: ai
-#  link: https://orcid.org/0000-0002-2473-0943
+- icon: github
+  icon_pack: fab
+  link: https://github.com/zachbrehm
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-7351-3526
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 #- icon: cv
@@ -71,5 +74,5 @@ user_groups:
 - Graduate Students
 ---
 
-
+Zach Brehm is a PhD student in the Department of Biostatistics and Computational Biology at the University of Rochester School of Medicine and Dentistry. He is currently working on methods to identify cell type specific gene expression from bulk RNA-Seq data.
 
