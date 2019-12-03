@@ -1,5 +1,9 @@
 ---
 title: Public Data
+authors:
+- zachary_brehm
+- isar_nassiri
+- admin
 summary: Leveraging public data resources.
 tags:
 - public_data

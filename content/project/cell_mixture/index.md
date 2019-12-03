@@ -1,8 +1,15 @@
 ---
 title: Cell Mixtures
 summary: The effects of tissue composition and cellular localization on genomic measurements.
+authors:
+- zachary_brehm
+- jonavelle_cuerdo
+- yun_zhang
+- admin
 tags:
-- public_data
+- cell_mixtures
+share: false
+comment: false
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

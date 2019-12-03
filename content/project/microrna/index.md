@@ -1,8 +1,15 @@
 ---
 title: MicroRNA
+authors:
+- yuewei_fei
+- kailey_ferger
+- qidi_yang
+- admin
 summary: Methods to analyze microRNA expression.
 tags:
 - microRNA
+share: false
+comment: false
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

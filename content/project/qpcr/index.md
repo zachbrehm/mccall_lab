@@ -1,9 +1,15 @@
 ---
 title: qPCR data
+authors:
+- valeriia_sherina
+- benjamin_hsu
+- admin
 summary: Methods to model and analyze data from qPCR experiments.
 tags:
 - qPCR
 - nondetects
+share: false
+comment: false
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

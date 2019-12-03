@@ -7,6 +7,7 @@ authors:
 - admin
 date: "2018-12-10"
 doi: ""
+project: ["cell_mixture"]
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -29,6 +30,7 @@ summary:
 tags:
 - coexpression
 - deconvolution
+- cell_mixture
 featured: true
 
 links:
