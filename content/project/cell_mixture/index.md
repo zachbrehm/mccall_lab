@@ -6,8 +6,6 @@ authors:
 - jonavelle_cuerdo
 - yun_zhang
 - admin
-tags:
-- cell_mixtures
 share: false
 comment: false
 date: "2016-04-27T00:00:00Z"
