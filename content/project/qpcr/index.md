@@ -4,9 +4,6 @@ summary: Methods to model and analyze data from qPCR experiments.
 authors:
 - valeriia_sherina
 - benjamin_hsu
-- lauren_kemperman
-- winslow_powers
-- admin
 share: false
 comment: false
 date: "2016-04-27T00:00:00Z"

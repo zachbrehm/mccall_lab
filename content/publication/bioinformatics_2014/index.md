@@ -7,6 +7,7 @@ authors:
 - Anthony Almudevar
 date: "2014-04-23"
 doi: ""
+project: ["qpcr"]
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"

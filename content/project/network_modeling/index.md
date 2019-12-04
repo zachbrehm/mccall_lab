@@ -4,7 +4,6 @@ summary: Methods to model cellular networks.
 authors:
 - david_burton
 - daniel_munoz_huerta
-- admin
 share: false
 comment: false
 date: "2016-04-27T00:00:00Z"

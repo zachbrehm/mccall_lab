@@ -3,9 +3,6 @@ title: Cell Mixtures
 summary: The effects of tissue composition and cellular localization on genomic measurements.
 authors:
 - zachary_brehm
-- jonavelle_cuerdo
-- yun_zhang
-- admin
 share: false
 comment: false
 date: "2016-04-27T00:00:00Z"

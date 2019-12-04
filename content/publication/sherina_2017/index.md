@@ -9,6 +9,7 @@ authors:
 - admin
 date: "2017-12-08"
 doi: ""
+project: ["qpcr"]
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"

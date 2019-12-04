@@ -3,8 +3,6 @@ title: Cell Morphology
 summary: Methods to quantify and analyze changes in cell morphology. 
 authors:
 - erik_vonkaenel
-- isar_nassiri
-- admin
 share: false
 comment: false
 date: "2016-04-27T00:00:00Z"

@@ -9,6 +9,7 @@ authors:
 - Marc K. Halushka
 date: "2014-02-26"
 doi: ""
+project: ["microrna"]
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"

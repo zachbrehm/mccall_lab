@@ -6,6 +6,7 @@ authors:
 - Marc K. Halushka
 date: "2016-09-01"
 doi: ""
+project: ["cell_mixture"]
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"

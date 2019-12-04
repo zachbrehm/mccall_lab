@@ -5,6 +5,7 @@ authors:
 - admin
 date: "2017-09-06"
 doi: ""
+project: ["cell_morphology"]
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
