@@ -9,7 +9,6 @@ authors:
 - admin
 date: "2017-12-08"
 doi: ""
-project: ["qpcr"]
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -45,6 +44,14 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- qpcr
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
