@@ -47,9 +47,9 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: mailto:matthew_mccall@urmc.rochester.edu
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/matthewnmccall
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/brehmzp
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=aaDwtw0AAAAJ
@@ -63,7 +63,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/mccall_cv.pdf
+  link: files/brehm_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
