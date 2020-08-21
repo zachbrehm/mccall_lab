@@ -18,7 +18,7 @@ organizations:
   url: "https://www.rochester.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include statistical genomics and bioinformatics.
+bio: 
 
 interests:
 - Interactive Graphics
