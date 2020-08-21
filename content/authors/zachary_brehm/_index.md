@@ -74,5 +74,4 @@ user_groups:
 - Graduate Students
 ---
 
-Zach Brehm is a PhD student in the Department of Biostatistics and Computational Biology at the University of Rochester School of Medicine and Dentistry. He is currently working on methods to identify cell type specific gene expression from bulk RNA-Seq data. Outside of his work in the lab, Zach serves as one of the department representatives in the URMC Graduate Student Societ
-
+Zach Brehm is a PhD student in the Department of Biostatistics and Computational Biology at the University of Rochester School of Medicine and Dentistry. He is currently working on methods to identify cell type specific gene expression from bulk RNA-Seq data. Outside of his work in the lab, Zach serves as one of the department representatives in the URMC Graduate Student Society.
