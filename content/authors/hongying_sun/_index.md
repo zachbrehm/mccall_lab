@@ -47,12 +47,12 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: mailto:hongying_sun@urmc.rochester.edu
-# - icon: twitter
+#- icon: twitter
 #   icon_pack: fab
 #   link: 
 - icon: google-scholar
- icon_pack: ai
- link: https://scholar.google.com/citations?user=hr0RQh4AAAAJ&hl=en
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=hr0RQh4AAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/hongyingsun1101
