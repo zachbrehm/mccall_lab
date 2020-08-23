@@ -33,7 +33,7 @@ education:
     institution: University of Rochester
     year: 2015
   - course: MS in Genomics
-    institution: University of Chinese Academy Sciences
+    institution: University of Chinese Academy of Sciences
     year: 2013
   - course: BS in Biology
     institution: Shandong University
