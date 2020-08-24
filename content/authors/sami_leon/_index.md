@@ -26,30 +26,22 @@ interests:
 
 education:
   courses:
-  - course: MA in Statistics
-    institution: University of Rochester
-    year: 2019
-  - course: BA/MA in Mathematics
-    institution: SUNY Potsdam
-    year: 2017
-  - course: MM in Music Performance
-    institution: SUNY Potsdam
-    year: 2015
-  - course: BM in Music Performance
-    institution: SUNY Potsdam
-    year: 2013
+  - course: MS in Applied Mathematics
+    institution: University of Paris-Saclay
+    year: 2018
+  - course: BS in Mathematics
+    institution: University of Montpellier
+    year: 2016
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: mailto:matthew_mccall@urmc.rochester.edu
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/brehmzp
+- icon: envelope
+ icon_pack: fas
+ link: mailto:sami_leon@urmc.rochester.edu
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=aaDwtw0AAAAJ
@@ -74,4 +66,4 @@ user_groups:
 - Graduate Students
 ---
 
-Sami Leon is a PhD student in the Department of Biostatistics and Computational Biology at the University of Rochester School of Medicine and Dentistry. He is currently working on methods to ...
+Sami Leon is a PhD student in the Department of Biostatistics and Computational Biology at the University of Rochester School of Medicine and Dentistry. He is currently working on methods to improve estimation of miRNA expression using UMIs.
