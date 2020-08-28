@@ -23,6 +23,7 @@ bio:
 interests:
 - Computational Biology
 - MicroRNA
+- Unique Molecular Identifiers (UMIs)
 
 education:
   courses:
@@ -77,7 +78,7 @@ user_groups:
 - Postdoctoral Fellows
 ---
 
-Hongying Sun is a Postdoctoral Fellow n the Department of Biostatistics and Computational Biology at the University of Rochester School of Medicine and Dentistry. She received her Ph.D. from David Mathews' group at URMC in February 2018.  She worked on clinical trial designs at St. Jude Children's Research Hospital from April 2018 to July 2019.  She is currently working on the analysis of miRNA sequencing data. 
+Hongying Sun is a Postdoctoral Fellow n the Department of Biostatistics and Computational Biology at the University of Rochester School of Medicine and Dentistry. She received her Ph.D. from David Mathews' group at URMC in February 2019.  She worked on clinical trial designs at St. Jude Children's Research Hospital from April 2019 to July 2020.  She is currently working on miRNAs and Unique Molecular Identifiers (UMIs). 
 
  
 
