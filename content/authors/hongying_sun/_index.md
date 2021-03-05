@@ -23,6 +23,7 @@ bio:
 interests:
 - Computational Biology
 - MicroRNA
+- Unique Molecular Identifiers (UMIs)
 
 education:
   courses:
@@ -33,7 +34,7 @@ education:
     institution: University of Rochester
     year: 2015
   - course: MS in Genomics
-    institution: University of Chinese Academy Sciences
+    institution: University of Chinese Academy of Sciences
     year: 2013
   - course: BS in Biology
     institution: Shandong University
@@ -59,6 +60,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-3144-3544
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/hongying-sun-6839bb82/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
@@ -71,10 +75,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Postdoctoral Fellows
+- Postdoctoral Alumni
 ---
 
-Hongying Sun is a Postdoctoral Fellow n the Department of Biostatistics and Computational Biology at the University of Rochester School of Medicine and Dentistry. She received her Ph.D. from David Mathews' group at URMC in February 2018.  She worked on clinical trial designs at St. Jude Children's Research Hospital from April 2018 to July 2019.  She is currently working on the analysis of miRNA sequencing data. 
+Hongying Sun was a Postdoctoral Fellow in the Department of Biostatistics and Computational Biology at the University of Rochester School of Medicine and Dentistry. She received her Ph.D. from David Mathews' group at URMC in February 2019.  She worked on clinical trial designs at St. Jude Children's Research Hospital from April 2019 to July 2020.  She worked on miRNAs and Unique Molecular Identifiers (UMIs). She now works as a Computational Scientist at Takeda.
 
  
 
