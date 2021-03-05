@@ -66,7 +66,7 @@ social:
   link: files/brehm_cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "zachary_brehm@urmc.rochester.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -74,4 +74,4 @@ user_groups:
 - Graduate Students
 ---
 
-Zach Brehm is a PhD student in the Department of Biostatistics and Computational Biology at the University of Rochester School of Medicine and Dentistry. He is currently working on methods to identify cell type specific gene expression from bulk RNA-Seq data. Outside of his work in the lab, Zach serves as one of the department representatives in the URMC Graduate Student Society.
+Zach Brehm is a PhD student in the Department of Biostatistics and Computational Biology at the University of Rochester School of Medicine and Dentistry. He is currently working on methods to identify cell type specific gene expression from bulk RNA-Seq data. Outside of his work in the lab, Zach serves as the Vice President and department representative in the URMC Graduate Student Society. Zach is also an avid musician, who specializes in classical guitar.
