@@ -75,10 +75,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Postdoctoral Fellows
+- Postdoctoral Alumni
 ---
 
-Hongying Sun is a Postdoctoral Fellow n the Department of Biostatistics and Computational Biology at the University of Rochester School of Medicine and Dentistry. She received her Ph.D. from David Mathews' group at URMC in February 2019.  She worked on clinical trial designs at St. Jude Children's Research Hospital from April 2019 to July 2020.  She is currently working on miRNAs and Unique Molecular Identifiers (UMIs). 
+Hongying Sun was a Postdoctoral Fellow in the Department of Biostatistics and Computational Biology at the University of Rochester School of Medicine and Dentistry. She received her Ph.D. from David Mathews' group at URMC in February 2019.  She worked on clinical trial designs at St. Jude Children's Research Hospital from April 2019 to July 2020.  She worked on miRNAs and Unique Molecular Identifiers (UMIs). She now works as a Computational Scientist at Takeda.
 
  
 
